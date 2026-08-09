@@ -12,13 +12,17 @@
 - [Infiniti](brands/Infiniti.md) — QX65가 2열 공간·마사지 시트·헤드레스트 오디오 중심으로 프리미엄 사용성을 강화.
 - [Land Rover](brands/Land%20Rover.md) — 스티어링휠 내부 에어백 커넥터의 장기 부식이 안전 이슈로 확인.
 
-## 브랜드
+## 현재 브랜드 Wiki
 
-[BMW](brands/BMW.md) · [Mercedes-Benz](brands/Mercedes-Benz.md) · [Audi](brands/Audi.md) · [Porsche](brands/Porsche.md) · [Volkswagen](brands/Volkswagen.md) · [Tesla](brands/Tesla.md) · [Hyundai](brands/Hyundai.md) · [Kia](brands/Kia.md) · [Genesis](brands/Genesis.md) · [Toyota](brands/Toyota.md) · [Lexus](brands/Lexus.md) · [Honda](brands/Honda.md) · [Nissan](brands/Nissan.md) · [Ford](brands/Ford.md) · [GM](brands/GM.md) · [Volvo](brands/Volvo.md) · [Polestar](brands/Polestar.md) · [BYD](brands/BYD.md) · [NIO](brands/NIO.md) · [XPeng](brands/XPeng.md) · [Rivian](brands/Rivian.md) · [Infiniti](brands/Infiniti.md) · [Land Rover](brands/Land%20Rover.md) · [Zoox](brands/Zoox.md)
+새 정보가 확인되어 실제 페이지가 생성된 브랜드만 표시한다.
+
+[Ford](brands/Ford.md) · [Toyota](brands/Toyota.md) · [Zoox](brands/Zoox.md) · [Infiniti](brands/Infiniti.md) · [Land Rover](brands/Land%20Rover.md)
+
+새로운 의미 있는 변화가 확인되는 브랜드는 그때 페이지를 생성해 이 목록에 추가한다.
 
 ## 기술·디자인 주제
 
-[HMI](topics/HMI.md) · [인포테인먼트](topics/인포테인먼트.md) · [디스플레이](topics/디스플레이.md) · [좌석](topics/좌석.md) · [공간설계](topics/공간설계.md) · [소재](topics/소재.md) · [조명](topics/조명.md) · [스마트캐빈](topics/스마트캐빈.md) · [자동차안전](topics/자동차안전.md) · [로보택시실내](topics/로보택시실내.md)
+[HMI](topics/HMI.md) · [인포테인먼트](topics/인포테인먼트.md) · [스마트캐빈](topics/스마트캐빈.md) · [자동차안전](topics/자동차안전.md) · [로보택시실내](topics/로보택시실내.md)
 
 ## 현재 공통 흐름
 
@@ -43,8 +47,8 @@
 5. 완전히 새로운 변화만 새 항목으로 추가한다.
 6. 각 브랜드 문서의 `변화 기록`에는 날짜와 변화 요지만 한 줄로 남긴다.
 7. 사실·업계 평가·추정을 구분하고 발표일과 출처를 유지한다.
-8. 내부 링크는 GitHub에서 작동하는 표준 Markdown 상대경로 링크 `[이름](경로.md)`만 사용한다.
-9. 신규 정보가 없는 브랜드는 갱신하지 않는다.
+8. 내부 링크는 GitHub에서 작동하는 표준 Markdown 상대경로 링크 `[이름](경로.md)`만 사용한다. 존재하지 않는 페이지에는 링크하지 않는다.
+9. 신규 정보가 없는 브랜드는 페이지를 억지로 만들지 않는다.
 10. 기존 `IYYYYMMDD.md` 파일은 삭제하지 않고 과거 원자료로 보존한다.
 
 ## 최근 변화 기록
