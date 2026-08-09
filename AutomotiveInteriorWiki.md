@@ -2,37 +2,37 @@
 
 최근 갱신: 2026-08-09
 
-> 이 문서는 날짜별 보고서를 반복 생성하는 대신, 자동차 실내 디자인·HMI·인포테인먼트·좌석·공간·안전·품질 변화를 주제별로 누적 갱신하는 허브다. 기존 `IYYYYMMDD.md`는 과거 원자료 아카이브로 보존한다.
+> 날짜별 보고서를 반복 생성하는 대신 자동차 실내 디자인·HMI·인포테인먼트·좌석·공간·안전·품질 변화를 누적 갱신한다. 기존 `IYYYYMMDD.md`는 원자료 아카이브로 보존한다.
 
 ## 최근 중요 변화
 
-- [[Ford]] — 차세대 보급형 EV에서 공간 효율과 필수 디지털 편의를 함께 유지하는 방향이 부상.
-- [[Toyota]] — 2027 Prius Plug-in Hybrid가 대형 레이아웃 변경보다 공조·좌석·충전 편의를 개선.
-- [[Zoox]] — 스티어링휠·페달 없는 대면형 실내가 실제 로보택시 서비스 확장 단계로 이동.
-- [[Infiniti]] — QX65가 2열 공간·마사지 시트·헤드레스트 오디오 중심으로 프리미엄 사용성을 강화.
-- [[Land Rover]] — 스티어링휠 내부 에어백 커넥터의 장기 부식이 안전 이슈로 확인.
+- [Ford](brands/Ford.md) — 차세대 보급형 EV에서 공간 효율과 필수 디지털 편의를 함께 유지하는 방향이 부상.
+- [Toyota](brands/Toyota.md) — 2027 Prius Plug-in Hybrid가 대형 레이아웃 변경보다 공조·좌석·충전 편의를 개선.
+- [Zoox](brands/Zoox.md) — 스티어링휠·페달 없는 대면형 실내가 실제 로보택시 서비스 확장 단계로 이동.
+- [Infiniti](brands/Infiniti.md) — QX65가 2열 공간·마사지 시트·헤드레스트 오디오 중심으로 프리미엄 사용성을 강화.
+- [Land Rover](brands/Land%20Rover.md) — 스티어링휠 내부 에어백 커넥터의 장기 부식이 안전 이슈로 확인.
 
 ## 브랜드
 
-[[BMW]] · [[Mercedes-Benz]] · [[Audi]] · [[Porsche]] · [[Volkswagen]] · [[Tesla]] · [[Hyundai]] · [[Kia]] · [[Genesis]] · [[Toyota]] · [[Lexus]] · [[Honda]] · [[Nissan]] · [[Ford]] · [[GM]] · [[Volvo]] · [[Polestar]] · [[BYD]] · [[NIO]] · [[XPeng]] · [[Rivian]] · [[Infiniti]] · [[Land Rover]] · [[Zoox]]
+[BMW](brands/BMW.md) · [Mercedes-Benz](brands/Mercedes-Benz.md) · [Audi](brands/Audi.md) · [Porsche](brands/Porsche.md) · [Volkswagen](brands/Volkswagen.md) · [Tesla](brands/Tesla.md) · [Hyundai](brands/Hyundai.md) · [Kia](brands/Kia.md) · [Genesis](brands/Genesis.md) · [Toyota](brands/Toyota.md) · [Lexus](brands/Lexus.md) · [Honda](brands/Honda.md) · [Nissan](brands/Nissan.md) · [Ford](brands/Ford.md) · [GM](brands/GM.md) · [Volvo](brands/Volvo.md) · [Polestar](brands/Polestar.md) · [BYD](brands/BYD.md) · [NIO](brands/NIO.md) · [XPeng](brands/XPeng.md) · [Rivian](brands/Rivian.md) · [Infiniti](brands/Infiniti.md) · [Land Rover](brands/Land%20Rover.md) · [Zoox](brands/Zoox.md)
 
 ## 기술·디자인 주제
 
-[[HMI]] · [[인포테인먼트]] · [[디스플레이]] · [[좌석]] · [[공간설계]] · [[소재]] · [[조명]] · [[스마트캐빈]] · [[자동차안전]] · [[로보택시실내]]
+[HMI](topics/HMI.md) · [인포테인먼트](topics/인포테인먼트.md) · [디스플레이](topics/디스플레이.md) · [좌석](topics/좌석.md) · [공간설계](topics/공간설계.md) · [소재](topics/소재.md) · [조명](topics/조명.md) · [스마트캐빈](topics/스마트캐빈.md) · [자동차안전](topics/자동차안전.md) · [로보택시실내](topics/로보택시실내.md)
 
 ## 현재 공통 흐름
 
 ### HMI·인포테인먼트
-- 대형 화면 확대만으로 차별화하기보다 필수 연결성·내비게이션·개인화 기능의 사용성이 중요해지고 있다.
-- 편의 전장과 안전 기능의 결합이 커지면서 DSP·소프트웨어·커넥터 장애가 안전 문제로 확대될 수 있다.
+- 대형 화면 확대보다 필수 연결성·내비게이션·개인화 기능의 사용성이 중요해지고 있다.
+- 편의 전장과 안전 기능의 결합으로 DSP·소프트웨어·커넥터 장애가 안전 문제로 확대될 수 있다.
 
 ### 좌석·공간
-- 마사지·통풍·헤드레스트 오디오 등 좌석 자체의 체감 기능이 프리미엄 차별화 수단으로 강화되고 있다.
-- EV와 로보택시는 기존 엔진차보다 공간 효율과 좌석 배치 자유도를 적극 활용하는 방향이다.
+- 마사지·통풍·헤드레스트 오디오 등 좌석 체감 기능이 프리미엄 차별화 수단으로 강화되고 있다.
+- EV와 로보택시는 공간 효율과 좌석 배치 자유도를 적극 활용하는 방향이다.
 
 ### 안전·품질
-- 실내 안전 이슈가 기계적 파손뿐 아니라 소프트웨어, 전기접점 부식, 오디오 DSP 등 전장 신뢰성으로 확대되고 있다.
-- 운전장치가 없는 로보택시는 비상정지·도어 개방·승객 안내·구조대 접근 HMI가 핵심 검증 항목이다.
+- 실내 안전 이슈가 기계적 파손뿐 아니라 소프트웨어·전기접점·오디오 DSP 등 전장 신뢰성으로 확대되고 있다.
+- 운전장치 없는 로보택시는 비상정지·도어 개방·승객 안내·구조대 접근 HMI가 핵심 검증 항목이다.
 
 ## 갱신 원칙
 
@@ -43,24 +43,24 @@
 5. 완전히 새로운 변화만 새 항목으로 추가한다.
 6. 각 브랜드 문서의 `변화 기록`에는 날짜와 변화 요지만 한 줄로 남긴다.
 7. 사실·업계 평가·추정을 구분하고 발표일과 출처를 유지한다.
-8. 관련 브랜드와 기술 문서를 `[[위키링크]]`로 연결한다.
+8. 내부 링크는 GitHub에서 작동하는 표준 Markdown 상대경로 링크 `[이름](경로.md)`만 사용한다.
 9. 신규 정보가 없는 브랜드는 갱신하지 않는다.
 10. 기존 `IYYYYMMDD.md` 파일은 삭제하지 않고 과거 원자료로 보존한다.
 
 ## 최근 변화 기록
 
 ### 2026-08-08
-- [[Ford]]: 차세대 보급형 EV의 공간·필수 HMI 전략 추가.
-- [[Toyota]]: Prius Plug-in Hybrid의 듀얼존 공조·좌석·연결성 개선 추가.
-- [[Zoox]]: 목적형 대면 실내의 상용 서비스 확대 단계 반영.
+- [Ford](brands/Ford.md): 차세대 보급형 EV의 공간·필수 HMI 전략 추가.
+- [Toyota](brands/Toyota.md): Prius Plug-in Hybrid의 듀얼존 공조·좌석·연결성 개선 추가.
+- [Zoox](brands/Zoox.md): 목적형 대면 실내의 상용 서비스 확대 단계 반영.
 
 ### 2026-08-07
-- [[Infiniti]]: QX65의 2열 공간·마사지 시트·개별 헤드레스트 오디오 추가.
-- [[Land Rover]]: 운전석 에어백 커넥터 부식 이슈 추가.
-- [[Ford]]: Explorer Hybrid·Lincoln Nautilus Hybrid 보행자 경고음/DSP 이슈 추가.
+- [Infiniti](brands/Infiniti.md): QX65의 2열 공간·마사지 시트·개별 헤드레스트 오디오 추가.
+- [Land Rover](brands/Land%20Rover.md): 운전석 에어백 커넥터 부식 이슈 추가.
+- [Ford](brands/Ford.md): Explorer Hybrid·Lincoln Nautilus Hybrid 보행자 경고음/DSP 이슈 추가.
 
 ## 원자료 아카이브
 
-최근 일일 보고서: [[I20260808]] · [[I20260807]] · [[I20260806]] · [[I20260805]] · [[I20260804]] · [[I20260803]] · [[I20260802]] · [[I20260801]]
+[I20260808](I20260808.md) · [I20260807](I20260807.md) · [I20260806](I20260806.md) · [I20260805](I20260805.md) · [I20260804](I20260804.md) · [I20260803](I20260803.md) · [I20260802](I20260802.md) · [I20260801](I20260801.md)
 
 앞으로 일일 보고서를 별도로 누적하기보다 이 Wiki와 관련 브랜드·기술 페이지를 증분 갱신하는 것을 기본 방식으로 한다.
