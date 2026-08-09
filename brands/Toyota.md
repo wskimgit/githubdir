@@ -12,7 +12,7 @@
 - 무선 Apple CarPlay·Android Auto 및 OTA 지원.
 - USB-C 6개.
 
-관련: [[HMI]] · [[인포테인먼트]]
+관련: [HMI](../topics/HMI.md) · [인포테인먼트](../topics/인포테인먼트.md)
 
 ## 좌석 · 공간
 - 듀얼존 공조 추가.
@@ -26,4 +26,6 @@
 - 2026-08-08 — Prius Plug-in Hybrid 연식변경에서 공조·좌석·연결성 편의 개선 확인.
 
 ## 원자료
-[[I20260808]]
+[I20260808](../I20260808.md)
+
+[← 자동차 실내 동향 Wiki](../AutomotiveInteriorWiki.md)
