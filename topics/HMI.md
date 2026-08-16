@@ -6,6 +6,8 @@
 
 ## 현재 흐름
 - 대형 화면 확대만으로 차별화하기보다 계기판·중앙 화면·물리 다이얼·조명·음성비서를 역할별로 배치하는 혼합 HMI가 중요해지고 있다.
+- [Acura](../brands/Acura.md)의 NEXERA Vision은 단일 곡면 운전자 화면과 최소 물리 버튼, 고정 좌석·가변 조작계를 결합해 ‘화면 수 축소 + 운전자 패키징 재설계’라는 콘셉트를 제시한다.
+- [Lamborghini](../brands/Lamborghini.md)의 Revuelto SV는 기존 디지털 콕핏에 트림 전용 그래픽·애니메이션과 5단계 트랙션 제어 `Pilota` 모드를 추가해 고성능 트림 차별화를 HMI 로직까지 확대한다.
 - [물리 피드백 HMI](물리-피드백-HMI.md)가 대중차·프리미엄·초고성능차에서 반복되며 독립 흐름으로 자리 잡고 있다.
 - [생성형 AI HMI](생성형AI-HMI.md)가 단순 음성명령을 넘어 차량 설정·콘텐츠·개인화를 통합하는 양산 단계로 진입하고 있다.
 - 좌석 이동·3열 접근·마사지·통풍도 화면·물리 버튼·조명과 연결되는 ‘좌석 HMI’로 발전한다.
@@ -13,6 +15,8 @@
 - 자동운전차에서는 최소위험상태 진입 후 차량 상태·원격 지원·재이동 가능성을 설명하는 비상 HMI가 새 과제로 부상한다.
 
 ## 최근 사례
+- [Acura](../brands/Acura.md) NEXERA Vision — 단일 곡면 화면, 고정 좌석과 가변 스티어링휠·페달, 최소 물리 버튼을 결합한 미래 콘셉트.
+- [Lamborghini](../brands/Lamborghini.md) Revuelto SV — SV 전용 화면 그래픽·애니메이션과 `Pilota` 5단계 트랙션 제어를 적용.
 - [Mahindra BE 6 SPORTEQ](../models/Mahindra-BE6-SPORTEQ.md) — 3화면 콕핏과 Google Gemini 기반 TEQ_Talk를 결합해 대화형 AI HMI를 양산 사양으로 확정.
 - [Aston Martin](../brands/Aston%20Martin.md) Valen — 중앙 화면을 운전자 쪽으로 조정하고 후방 유리 대신 카메라 기반 rear-view system을 사용.
 - [McLaren](../brands/McLaren.md) McL 6GT — 디지털 계기판을 유지하면서 6단 수동변속기와 유압식 스티어링의 기계적 피드백을 핵심 UX로 전면화.
@@ -25,6 +29,7 @@
 - [Toyota](../brands/Toyota.md) Camry Hybrid — 계기판 표시 불량 리콜로 디지털 클러스터의 고장안전 문제가 부각.
 
 ## 변화 기록
+- 2026-08-16 — Acura NEXERA Vision의 단일 화면·고정 좌석/가변 조작계와 Lamborghini Revuelto SV의 트림 전용 HMI·Pilota 모드를 추가.
 - 2026-08-16 — Brand/Model 링크를 연결하고 물리 피드백 HMI를 독립 Topic으로 승격.
 - 2026-08-12 — Jaguar Type 01의 와이드 화면·세로형 터치패널과 Toyota 클러스터 고장안전 이슈 추가.
 - 2026-08-11 — Volkswagen의 대형 화면+물리 다이얼 혼합 HMI 추가.
