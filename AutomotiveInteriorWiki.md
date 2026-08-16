@@ -6,62 +6,62 @@
 
 ## 현재 핵심 변화
 
-- Mahindra BE 6 SPORTEQ — 3화면 콕핏과 Google Gemini 기반 `TEQ_Talk`를 양산 사양으로 확정하면서 [생성형 AI HMI](topics/생성형AI-HMI.md)가 보급형 EV까지 확장되기 시작했다.
-- Aston Martin Valen — [3D 프린팅](topics/3D-프린팅.md) 부품·경량 카본 시트·운전자 지향 중앙 화면·카메라 후방 시야를 결합해 경량화와 디지털 시야 보완을 함께 설계한다.
-- McLaren McL 6GT와 Koenigsegg CCGT1 — 수동·순차변속, 유압식 스티어링 등 물리적 피드백을 핵심 사용자 경험으로 다시 전면화했다.
-- Ferrari CZ26 — 기능성 직물·카본·3D 프린팅 시트 인서트를 결합해 원오프 실내 맞춤화를 공정·형상 수준으로 확대했다.
+- [Mahindra](brands/Mahindra.md)의 [BE 6 SPORTEQ](models/Mahindra-BE6-SPORTEQ.md) — 3화면 콕핏과 Google Gemini 기반 `TEQ_Talk`를 양산 사양으로 확정하면서 [생성형 AI HMI](topics/생성형AI-HMI.md)가 보급형 EV까지 확장되기 시작했다.
+- [Aston Martin](brands/Aston%20Martin.md) Valen — [3D 프린팅](topics/3D-프린팅.md) 부품·경량 카본 시트·운전자 지향 중앙 화면·카메라 후방 시야를 결합해 경량화와 디지털 시야 보완을 함께 설계한다.
+- [McLaren](brands/McLaren.md) McL 6GT와 [Koenigsegg](brands/Koenigsegg.md) CCGT1 — 수동·순차변속, 유압식 스티어링 등 [물리 피드백 HMI](topics/물리-피드백-HMI.md)를 핵심 사용자 경험으로 다시 전면화했다.
+- [Ferrari](brands/Ferrari.md) CZ26 — 기능성 직물·카본·3D 프린팅 시트 인서트를 결합해 원오프 실내 맞춤화를 공정·형상 수준으로 확대했다.
 - Singer × Louis Vuitton Porsche 911 — 자동차 실내에 패션 가죽공예·퀼팅·시계 디자인을 직접 이식해 비디지털 프리미엄 차별화 영역을 확장했다.
-- Kia EV3 — 보급형 EV에서도 계기판·공조·인포테인먼트를 분리한 약 30인치 통합 디지털 영역을 실제 판매 사양으로 유지한다.
-- Kia Telluride — 전동시트 스위치 손상이 모터 과열·화재로 이어질 수 있어 좌석 편의장치의 전류 감시·전자퓨즈·fail-safe 중요성이 커졌다.
-- Toyota Camry Hybrid — 디지털 계기판 표시 불량 리콜은 클러스터 고장안전과 필수 경고정보 이중화 필요성을 보여준다.
+- [Kia](brands/Kia.md) EV3 — 보급형 EV에서도 계기판·공조·인포테인먼트를 분리한 약 30인치 통합 디지털 영역을 실제 판매 사양으로 유지한다.
+- [Kia](brands/Kia.md) Telluride — 전동시트 스위치 손상이 모터 과열·화재로 이어질 수 있어 좌석 편의장치의 전류 감시·전자퓨즈·fail-safe 중요성이 커졌다.
+- [Toyota](brands/Toyota.md) Camry Hybrid — 디지털 계기판 표시 불량 리콜은 클러스터 고장안전과 필수 경고정보 이중화 필요성을 보여준다.
 
 ## 기술 변화 지도
 
 ### HMI·디스플레이
 - [HMI](topics/HMI.md)는 대형 화면 일변도에서 화면·물리 조작·음성·조명을 역할별로 배치하는 혼합 구조로 이동한다.
-- 고성능·레트로 차량에서는 수동변속기·순차변속·유압식 스티어링 같은 촉각 피드백 자체가 프리미엄 UX로 재평가된다.
+- [물리 피드백 HMI](topics/물리-피드백-HMI.md)는 [Volvo](brands/Volvo.md)의 터치 과의존 재검토, [Volkswagen](brands/Volkswagen.md)의 다기능 물리 다이얼, Koenigsegg·McLaren의 변속 조작 중심 설계에서 반복 확인돼 독립 Topic으로 승격됐다.
 - 카메라 기반 rear-view system처럼 디지털 화면이 직접 시야를 대체하면서 전원·센서·표시장치 장애에 대한 대체 설계가 중요해진다.
 
 ### AI·인포테인먼트
 - [생성형 AI HMI](topics/생성형AI-HMI.md)가 음성명령을 넘어 차량 설정·콘텐츠·개인화를 통합하는 양산 단계로 진입했다.
-- 3화면 콕핏, 차량 AI, karaoke·gaming·Dolby, Digital Car Key를 하나의 스마트캐빈 경험으로 묶는 사례가 등장했다.
+- Mahindra BE 6 SPORTEQ는 3화면 콕핏, 차량 AI, karaoke·gaming·Dolby, Digital Car Key를 하나의 스마트캐빈 경험으로 묶는다.
 - [인포테인먼트](topics/인포테인먼트.md) 경쟁은 화면 크기뿐 아니라 AI·콘텐츠·스마트폰/키 연동으로 확대된다.
-
-### 물리 인터페이스
-- Volvo의 터치 과의존 재검토, Volkswagen의 다기능 물리 다이얼, Koenigsegg·McLaren의 변속 조작 중심 설계가 서로 다른 시장에서 동시에 나타난다.
-- 디지털 화면과 물리 조작을 기능별로 분리하는 것이 직관성과 주행 중 시선 분산을 함께 개선할 가능성이 있다.
 
 ### 좌석·공간
 - 마사지·통풍·오토만·헤드레스트 오디오 등 좌석 체감 기능이 프리미엄 차별화 수단으로 강화된다.
-- Audi Q7처럼 좌석 이동과 3열 접근을 MMI·물리 버튼·조명과 연동하는 ‘좌석 HMI’가 확대된다.
-- NIO ES8처럼 3열을 삭제하고 2열 휴식성과 적재공간을 강화한 5인승 패키지, Jaguar Type 01의 4인 독립 공간 등 EV 전용 공간 전략이 다변화된다.
+- [Audi](brands/Audi.md) Q7처럼 좌석 이동과 3열 접근을 MMI·물리 버튼·조명과 연동하는 ‘좌석 HMI’가 확대된다.
+- [NIO](brands/NIO.md) ES8처럼 3열을 삭제하고 2열 휴식성과 적재공간을 강화한 5인승 패키지, [Jaguar](brands/Jaguar.md) Type 01의 4인 독립 공간 등 EV 전용 공간 전략이 다변화된다.
 
 ### 소재·조명
 - [3D 프린팅](topics/3D-프린팅.md)이 Ferrari CZ26의 시트 인서트에서 Aston Martin Valen의 경량 부품으로 반복 등장해 독립 추적 주제로 승격했다.
 - 아라미드·카본 복합재, 기능성 직물, semi-aniline leather·Alcantara 등 경량·촉감·고급감을 동시에 겨냥한 소재 조합이 확대된다.
-- Cadillac의 대규모 색·트림 개인화와 Singer × Louis Vuitton의 패션 공예 결합처럼 프리미엄 실내가 소재 선택에서 공정·패턴·브랜드 협업으로 확장된다.
+- [Cadillac](brands/Cadillac.md)의 대규모 색·트림 개인화와 Singer × Louis Vuitton의 패션 공예 결합처럼 프리미엄 실내가 소재 선택에서 공정·패턴·브랜드 협업으로 확장된다.
 
 ### 안전·규제·품질
 - [자동차안전](topics/자동차안전.md) 이슈가 에어백·벨트뿐 아니라 전동시트 모터·디지털 클러스터·DSP·카메라 후방 시야 등 실내 전장 전체로 확대된다.
 - 화면이 필수 안전정보나 실제 시야를 대신할수록 부팅·복구·전원 이중화·고장 상태 표시가 중요해진다.
 - 생성형 AI HMI는 오인식·응답 지연·과도한 대화로 인한 주의 분산을 줄이고 안전 관련 명령의 권한·확인 절차를 명확히 해야 한다.
 
-## 현재 브랜드 Wiki
+## 브랜드 지도
 
-실제 페이지가 생성된 브랜드만 링크한다.
+[Ford](brands/Ford.md) · [Toyota](brands/Toyota.md) · [Lexus](brands/Lexus.md) · [Kia](brands/Kia.md) · [NIO](brands/NIO.md) · [Infiniti](brands/Infiniti.md) · [Land Rover](brands/Land%20Rover.md) · [Zoox](brands/Zoox.md) · [Mahindra](brands/Mahindra.md) · [Ferrari](brands/Ferrari.md) · [Aston Martin](brands/Aston%20Martin.md) · [Koenigsegg](brands/Koenigsegg.md) · [McLaren](brands/McLaren.md) · [Jaguar](brands/Jaguar.md) · [Cadillac](brands/Cadillac.md) · [Volkswagen](brands/Volkswagen.md) · [Audi](brands/Audi.md) · [Volvo](brands/Volvo.md)
 
-[Ford](brands/Ford.md) · [Toyota](brands/Toyota.md) · [Zoox](brands/Zoox.md) · [Infiniti](brands/Infiniti.md) · [Land Rover](brands/Land%20Rover.md) · [Lexus](brands/Lexus.md) · [NIO](brands/NIO.md)
+## 모델 지도
 
-Mahindra · Aston Martin · Ferrari · Koenigsegg · McLaren · Kia · Jaguar · Cadillac · Volkswagen · Audi · Volvo는 최근 변화가 있으나, 후속 정보가 더 누적될 때 브랜드 페이지 승격을 검토한다.
+현재 독립 Model Wiki로 승격된 모델:
+
+- [Mahindra BE 6 SPORTEQ](models/Mahindra-BE6-SPORTEQ.md) — 2026-08-11 티저, 2026-08-15 양산 HMI 확정으로 서로 다른 날짜에 반복 등장하고 복수 Topic과 연결돼 독립 모델로 승격.
+
+그 외 모델은 우선 각 브랜드 Wiki의 모델 섹션에서 관리하고, 반복 등장·안전 추적·복수 Topic 연결 시 `models/*.md`로 승격한다.
 
 ## 핵심 Topic
 
-[HMI](topics/HMI.md) · [생성형 AI HMI](topics/생성형AI-HMI.md) · [3D 프린팅](topics/3D-프린팅.md) · [인포테인먼트](topics/인포테인먼트.md) · [스마트캐빈](topics/스마트캐빈.md) · [자동차안전](topics/자동차안전.md) · [로보택시 실내](topics/로보택시실내.md)
+[HMI](topics/HMI.md) · [생성형 AI HMI](topics/생성형AI-HMI.md) · [물리 피드백 HMI](topics/물리-피드백-HMI.md) · [3D 프린팅](topics/3D-프린팅.md) · [인포테인먼트](topics/인포테인먼트.md) · [스마트캐빈](topics/스마트캐빈.md) · [자동차안전](topics/자동차안전.md) · [로보택시 실내](topics/로보택시실내.md)
 
 ## 신규·관찰 키워드
 
 - **WATCH — 카메라 후방 시야**: Aston Martin Valen처럼 후방 유리를 제거하고 카메라·디스플레이로 대체하는 사례. 반복성과 규제·고장안전 중요도를 추가 관찰한다.
-- **WATCH — 물리 피드백 HMI**: 수동변속·순차변속·유압식 스티어링·다기능 다이얼을 포함하는 촉각 중심 조작 흐름. 기존 HMI의 하위 개념으로 관리하되 반복 확대 시 독립 Topic으로 승격한다.
+- **PROMOTED — 물리 피드백 HMI**: 여러 브랜드·날짜에서 반복 확인돼 [독립 Topic](topics/물리-피드백-HMI.md)으로 승격했다.
 - **WATCH — 패션 공예 실내**: Singer × Louis Vuitton처럼 자동차 외 럭셔리 공예를 실내 소재·패턴·시계·트림에 직접 결합하는 흐름.
 
 ## 주목할 위험과 기회
@@ -80,11 +80,12 @@ Mahindra · Aston Martin · Ferrari · Koenigsegg · McLaren · Kia · Jaguar ·
 
 ## 최근 변화
 
-### 2026-08-16 Wiki 통합 갱신
-- 8월 13~15일 원자료를 누적 Wiki에 반영.
-- [생성형 AI HMI](topics/생성형AI-HMI.md) 신규 Topic 생성.
-- [3D 프린팅](topics/3D-프린팅.md) 신규 Topic 생성: Ferrari CZ26와 Aston Martin Valen에서 반복 확인돼 독립 주제로 승격.
-- 카메라 후방 시야·물리 피드백 HMI·패션 공예 실내를 관찰 키워드로 등록.
+### 2026-08-16 Entity Graph + ERR-C 갱신
+- Main Wiki의 브랜드명을 실제 Brand Wiki로 연결.
+- [Mahindra BE 6 SPORTEQ](models/Mahindra-BE6-SPORTEQ.md)를 첫 독립 Model Wiki로 승격.
+- [물리 피드백 HMI](topics/물리-피드백-HMI.md)를 WATCH에서 독립 Topic으로 승격.
+- 신규 Brand Wiki: Kia, Mahindra, Ferrari, Aston Martin, Koenigsegg, McLaren, Jaguar, Cadillac, Volkswagen, Audi, Volvo.
+- [생성형 AI HMI](topics/생성형AI-HMI.md), [3D 프린팅](topics/3D-프린팅.md) Topic과 Brand/Model 간 링크를 강화.
 
 ### 2026-08-15
 - Mahindra BE 6 SPORTEQ: 3화면·Google Gemini 기반 TEQ_Talk의 양산 적용 확인.
@@ -119,11 +120,11 @@ Mahindra · Aston Martin · Ferrari · Koenigsegg · McLaren · Kia · Jaguar ·
 ## 갱신 원칙
 
 1. 최신 공개자료에서 의미 있는 새 사실을 확인한다.
-2. 최근 일일 보고서와 Main/Brand/Topic Wiki를 먼저 비교한다.
+2. 최근 일일 보고서와 Main/Brand/Model/Topic Wiki를 먼저 비교한다.
 3. NEW / UPDATE / CONFIRM / ISSUE / TREND / NOCHANGE로 판정하며 NOCHANGE는 추가하지 않는다.
 4. 신규 키워드는 기존 Topic과 동의어·유사 개념을 먼저 비교한다.
 5. 반복 등장·양산 적용·안전/규제 영향·지속 추적 가치가 충분하면 독립 Topic으로 승격한다.
-6. 아직 근거가 약한 개념은 ‘신규·관찰 키워드’에 두고 반복성을 확인한다.
+6. 브랜드는 의미 있는 정보가 1건 이상이면 Brand Wiki 생성 여부를 검토하고, 모델은 반복 등장·복수 Topic·안전 추적 가치가 충분할 때 독립 Model Wiki로 승격한다.
 7. 일일 보고서는 변화 로그로 보존하고 Wiki에는 현재 유효한 상태를 우선한다.
 8. 내부 링크는 GitHub에서 작동하는 표준 Markdown 상대경로만 사용하며 `[[...]]` 링크는 사용하지 않는다.
 9. 링크 대상 파일이 실제 존재하지 않으면 링크하지 않는다.
@@ -133,4 +134,4 @@ Mahindra · Aston Martin · Ferrari · Koenigsegg · McLaren · Kia · Jaguar ·
 
 [I20260815](I20260815.md) · [I20260814](I20260814.md) · [I20260813](I20260813.md) · [I20260812](I20260812.md) · [I20260811](I20260811.md) · [I20260810](I20260810.md) · [I20260809](I20260809.md) · [I20260808](I20260808.md) · [I20260807](I20260807.md) · [I20260806](I20260806.md) · [I20260805](I20260805.md) · [I20260804](I20260804.md) · [I20260803](I20260803.md) · [I20260802](I20260802.md) · [I20260801](I20260801.md)
 
-앞으로 일일 보고서는 Change Log로 보존하고, 이 Wiki와 Topic/Brand 문서는 중복을 제거한 현재 지식 상태로 계속 갱신한다.
+앞으로 일일 보고서는 Change Log로 보존하고, Main/Brand/Model/Topic Wiki는 중복을 제거한 현재 지식 상태로 계속 갱신한다.
