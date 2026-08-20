@@ -1,6 +1,6 @@
 # HMI
 
-최근 갱신: 2026-08-19
+최근 갱신: 2026-08-20
 
 자동차 실내의 화면·조작계·음성·경고·승객 인터페이스 변화를 누적한다.
 
@@ -12,30 +12,24 @@
 - [Lamborghini](../brands/Lamborghini.md)의 Revuelto SV는 기존 디지털 콕핏에 트림 전용 그래픽·애니메이션과 5단계 트랙션 제어 `Pilota` 모드를 추가해 고성능 트림 차별화를 HMI 로직까지 확대한다.
 - [물리 피드백 HMI](물리-피드백-HMI.md)가 대중차·프리미엄·초고성능차에서 반복되며 독립 흐름으로 자리 잡고 있다.
 - [생성형 AI HMI](생성형AI-HMI.md)가 단순 음성명령을 넘어 차량 설정·콘텐츠·개인화를 통합하는 양산 단계로 진입하고 있다.
-- 좌석 이동·3열 접근·마사지·통풍도 화면·물리 버튼·조명과 연결되는 ‘좌석 HMI’로 발전한다.
 - 디지털 계기판과 후방카메라처럼 안전 기능이 디스플레이에 집중되면서 부팅·복구뿐 아니라 화면 레이어 우선순위와 메뉴 상태 전환도 핵심 품질·법규 항목이 된다.
+- [Stellantis](../brands/Stellantis.md)의 2026~2027년형 다수 차종 리콜은 라디오 소프트웨어 자체가 후방카메라 표시 실패를 유발할 수 있음을 보여준다. 안전 영상은 일반 인포테인먼트 프로세스와 분리된 복구 경로가 필요하다.
 
 ## 최근 사례
+- [Stellantis](../brands/Stellantis.md) — Chrysler·Dodge·Jeep·Ram 다수 차종 약 95만5천 대에서 라디오 소프트웨어가 후방카메라 표시를 방해할 수 있어 OTA 리콜.
 - [Hyundai](../brands/Hyundai.md) 2027 Tucson — 대형 중앙 터치스크린, 둥근 센터 콘솔, 2스포크 스티어링휠을 공식 공개. 세부 OS·AI 사양은 미확정.
 - [Mercedes-Benz](../brands/Mercedes-Benz.md) 2027 C-Class — 물리 볼륨 스크롤러 복원, MB.OS OTA, ChatGPT·Bing·Gemini 기반 다중 AI MBUX를 결합.
 - [Ford](../brands/Ford.md) F-150·F-250 Super Duty — 8인치 SYNC 화면의 인포테인먼트 메뉴가 후방카메라 영상을 일부 가릴 수 있는 APIM 결함으로 FMVSS 111 부적합 리콜.
 - [Acura](../brands/Acura.md) NEXERA Vision — 단일 곡면 화면, 고정 좌석과 가변 스티어링휠·페달, 최소 물리 버튼을 결합한 미래 콘셉트.
 - [Lamborghini](../brands/Lamborghini.md) Revuelto SV — SV 전용 화면 그래픽·애니메이션과 `Pilota` 5단계 트랙션 제어 적용.
 - [Mahindra BE 6 SPORTEQ](../models/Mahindra-BE6-SPORTEQ.md) — 3화면 콕핏과 Google Gemini 기반 TEQ_Talk를 결합해 대화형 AI HMI를 양산 사양으로 확정.
-- [Aston Martin](../brands/Aston%20Martin.md) Valen — 운전자 지향 중앙 화면과 카메라 기반 rear-view system.
-- [McLaren](../brands/McLaren.md) McL 6GT — 6단 수동변속기와 유압식 스티어링의 기계적 피드백을 핵심 UX로 전면화.
-- [Koenigsegg](../brands/Koenigsegg.md) CCGT1 — Sequential Shift 인터페이스와 Engage Shift System으로 변속 조작을 핵심 HMI로 구성.
-- [Audi](../brands/Audi.md) Q7 — MMI·C필러·트렁크에서 Comfort Entry를 실행하고 Interaction Light로 차량 상태를 전달.
-- [Volvo](../brands/Volvo.md) — 터치스크린 과의존을 재검토하고 촉각 조작의 중요성을 강조.
-- [Volkswagen](../brands/Volkswagen.md) Atlas Cross Sport — 10.3인치 계기판, 12.9/15.0인치 중앙 화면과 다기능 물리 다이얼 병행.
 - [Toyota](../brands/Toyota.md) Camry Hybrid — 계기판 표시 불량 리콜로 디지털 클러스터 고장안전 문제 부각.
 
 ## 변화 기록
+- 2026-08-20 — Stellantis 다브랜드 후방카메라/라디오 소프트웨어 리콜 추가. safety-critical display path 필요성 강화.
 - 2026-08-19 — Hyundai 2027 Tucson의 대형 중앙 화면 중심 실내 공식 공개와 ‘스파이샷 사양 vs 공식 확정’ 구분 원칙 반영.
 - 2026-08-18 — Mercedes-Benz 2027 C-Class의 물리 볼륨 스크롤러 + 다중 AI MBUX 조합 추가.
 - 2026-08-17 — Ford 후방카메라 UI 오버레이 결함과 safety-critical display layer 우선순위 문제 반영.
 - 2026-08-16 — Acura 단일 화면·가변 조작계, Lamborghini 트림 전용 HMI, 물리 피드백 HMI 독립 Topic 승격 반영.
-- 2026-08-12 — Jaguar Type 01과 Toyota 클러스터 고장안전 이슈 추가.
-- 2026-08-11 — Volkswagen 대형 화면+물리 다이얼 혼합 HMI 추가.
 
 [← 자동차 실내 동향 Wiki](../AutomotiveInteriorWiki.md)
